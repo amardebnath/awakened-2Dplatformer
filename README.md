@@ -27,4 +27,4 @@ Gameplay 2-
 
 ![gameplay](https://raw.githubusercontent.com/amardeb/awakened-2Dplatformer/master/screenshots/gameplay2.png)
 
-### The APK for this game can be found ![here](https://drive.google.com/open?id=0B6D4JqwVkC_Qc0hteF83aWRnclE).
+### The APK for this game can be found [here](https://drive.google.com/open?id=0B6D4JqwVkC_Qc0hteF83aWRnclE).
