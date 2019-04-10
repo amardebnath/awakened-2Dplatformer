@@ -14,6 +14,8 @@ It’s a puzzle based action game where the player has to explore his inner drea
 
 -Platform: Android
 
+### The APK for this game can be found [here](https://drive.google.com/open?id=0B6D4JqwVkC_Qc0hteF83aWRnclE).
+
 ### Screenshots of the game
 Poster-
 
@@ -27,4 +29,4 @@ Gameplay 2-
 
 ![gameplay](https://raw.githubusercontent.com/amardeb/awakened-2Dplatformer/master/screenshots/gameplay2.png)
 
-### The APK for this game can be found [here](https://drive.google.com/open?id=0B6D4JqwVkC_Qc0hteF83aWRnclE).
+
