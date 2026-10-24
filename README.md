@@ -30,3 +30,9 @@ Gameplay 2-
 ![gameplay](https://raw.githubusercontent.com/amardeb/awakened-2Dplatformer/master/screenshots/gameplay2.png)
 
 
+## Credits
+
+- **Sirajus Salehin**: Developer
+- **Amar Debnath** ([@amardebnath](https://github.com/amardebnath)): Developer
+- **Nazmus Sakib** ([@sakibnazmus](https://github.com/sakibnazmus)): Developer
+- **Ayesha Ahmed** ([@ahmed-ayesha](https://github.com/ahmed-ayesha)): Concept & Game Artist
